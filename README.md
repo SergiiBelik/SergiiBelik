@@ -14,14 +14,14 @@ Stateful technical support agent using the OpenAI Responses API,
 multi-round function calling, Structured Outputs, and resilient
 error handling.
 
-→ [View project]([...](https://github.com/SergiiBelik/support-troubleshooting-agent))
+→ [View project]((https://github.com/SergiiBelik/support-troubleshooting-agent))
 
 ### 🚨 Incident Analyzer
 Transforms logs, metrics, alerts, deployments, and support notes
 into structured timelines, root-cause assessments, and recommended
 actions.
 
-→ [View project]([...](https://github.com/SergiiBelik/incident-analyzer))
+→ [View project]((https://github.com/SergiiBelik/incident-analyzer))
 
 ## Technologies
 
