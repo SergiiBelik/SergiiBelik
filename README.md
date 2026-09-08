@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sergii 👋
 
-<!--
-**SergiiBelik/SergiiBelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Technical Support Engineer focused on complex production
+troubleshooting, APIs, cloud systems, and AI-powered support tooling.
 
-Here are some ideas to get you started:
+I'm currently building hands-on projects with the OpenAI API,
+including tool-using support agents, structured incident analysis,
+and automated ticket triage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🔧 Support Troubleshooting Agent
+Stateful technical support agent using the OpenAI Responses API,
+multi-round function calling, Structured Outputs, and resilient
+error handling.
+
+→ [View project](...)
+
+### 🚨 Incident Analyzer
+Transforms logs, metrics, alerts, deployments, and support notes
+into structured timelines, root-cause assessments, and recommended
+actions.
+
+→ [View project](...)
+
+## Technologies
+
+Python · OpenAI API · REST APIs · Pydantic · GCP · AWS · SQL
