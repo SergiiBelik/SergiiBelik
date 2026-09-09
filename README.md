@@ -1,11 +1,11 @@
 # Hi, I'm Sergii 👋
 
 Senior Technical Support Engineer focused on complex production
-troubleshooting, APIs, cloud systems, and AI-powered support tooling.
+troubleshooting, APIs, cloud systems, and AI-powered support and 
+incident-response tooling.
 
-I'm currently building hands-on projects with the OpenAI API,
-including tool-using support agents, structured incident analysis,
-and automated ticket triage.
+I build hands-on projects with the OpenAI API, including tool-using
+support agents, structured incident analysis, and automated ticket triage.
 
 ## Featured Projects
 
